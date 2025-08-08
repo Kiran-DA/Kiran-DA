@@ -33,6 +33,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
+  <img width="12" />
+  <img src="pbi.png" height="40" alt="PBi logo"  />
 </div>
 
 ###
