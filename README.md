@@ -5,14 +5,15 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <a href="https://linkedin.com/in/mahesh-kiran-932148109" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahesh-kiran-932148109" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/mahesh kiran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mahesh kiran" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@maheshkiran021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@maheshkiran021" height="30" width="40" /></a>
+</p>
 </div>
 
 ###
 
-<h1 align="center">Hey there 👋</h1>
+<h1 align="center">Hey there 👋 welcome to my GitHub profile</h1>
 
 ###
 
@@ -20,7 +21,8 @@
 
 ###
 
-<p align="left">I'm from Service Desk Background looking to becoming a Data Analyst<br><br><br><br>    🔭 I’ve worked on Python Indian Startup Funding Case Study<br><br>    🌱 I’m currently learning Python,Power-Bi<br><br>    👯 I’ve worked on Power-Bi Super Store Sales and Profits using Power BI Dashboard<br><br>    🤝 I’m looking for help with Data Analysis Jobs<br><br>    👨‍💻 All of my projects are available at : https://github.com/kiran-da<br><br>    💬 Ask me about Data Analytics<br><br>    📫 How to reach me : maheshkiran021@gmail.com<br><br>    📄 Know about my experiences : My Resume<br><br>    ⚡ Fun fact Passionate About Creating Game Walk-throughs</p>
+<p align="left">I'm from Service Desk Background looking to becoming a Data Analyst<br><br>    🔭 I’ve worked on Python <a href= "https://github.com/Kiran-DA/EDA.git" target="_blank">Indian Startup Funding Case Study</a><br><br>    🌱 I’m currently learning Python,Power-Bi,SQL,Microsoft Excel<br><br>    👯 I’ve worked on Power-Bi <a href="https://github.com/Kiran-DA/Bi-Dashboard.git" target="_blank"> Super Store Sales and Profits using Power BI Dashboard</a><br><br>    🤝 I’m looking for help with Data Analysis Jobs<br><br>    👨‍💻 All of my projects are available at :<a href = "https://github.com/kiran-da" target = "blank"> Repository</a><br><br>    💬 Ask me about Data Analytics<br><br>    📫 How to reach me : <a href ="mail to:maheshkiran021@gmail.com">maheshkiran021@gmail.com</a><br><br>    
+📄 Know about my experiences : <a class="nav-link active" href="https://drive.google.com/file/d/1BvYigK7Bril4OuRXp4GdXPJ8DWYa5AqL/view?usp=sharing" target="_blank">My Resume</a><br><br>    ⚡ Fun fact Passionate About Creating Game Walk-throughs</p>
 
 ###
 
@@ -33,6 +35,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
+  <img src="ExcelLogo.png" height="40" alt="Excel logo"  />
   <img width="12" />
   <img src="pbi.png" height="40" alt="PBi logo"  />
 </div>
